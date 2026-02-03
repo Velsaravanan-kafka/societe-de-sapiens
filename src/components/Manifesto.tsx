@@ -1,4 +1,4 @@
-"use client"; // Required for animations
+"use client";
 
 import { motion } from "framer-motion";
 import { ArrowRight } from "lucide-react";
@@ -7,36 +7,35 @@ export default function Manifesto() {
   return (
     <section
       id="manifesto"
-      className="min-h-screen flex items-center bg-paper overflow-hidden"
+      className="min-h-screen flex items-center bg-[#050505] overflow-hidden"
     >
       <div className="w-full max-w-7xl mx-auto grid md:grid-cols-2 gap-0">
-        {/* Left side - Renaissance imagery */}
+        {/* Left side - Imagery (Night) */}
         <motion.div
           initial={{ opacity: 0, x: -50 }}
           whileInView={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.8 }}
           viewport={{ once: true }}
-          className="relative min-h-[500px] md:min-h-[700px] bg-gray-200"
+          className="relative min-h-[500px] md:min-h-[700px] bg-black"
         >
-          {/* We use a standard img tag here instead of the missing component */}
           <img
-            src="https://images.unsplash.com/photo-1743962789624-8fd69cd135e5?q=80&w=1080&auto=format&fit=crop"
-            alt="Renaissance architecture and sketches"
-            className="w-full h-full object-cover grayscale-[30%] opacity-80"
+            src="/images/Vangogh.jpg"
+            alt="A light in the darkness"
+            // CHANGED: Removed opacity-90 so it glows fully
+            className="w-full h-full object-cover"
           />
 
-          {/* Gradient Overlay to blend into the paper background */}
-          <div className="absolute inset-0 bg-gradient-to-r from-transparent to-paper" />
+          {/* DELETED: The gradient overlay div is gone. Image is now clear. */}
 
-          {/* Decorative Gold Circles (Animated) */}
-          <div className="absolute top-1/4 left-1/4 w-32 h-32 border border-yellow-600/30 rounded-full animate-pulse" />
+          {/* Decorative Gold Circles (Kept these as they are nice accents) */}
+          <div className="absolute top-1/4 left-1/4 w-32 h-32 border border-yellow-500/20 rounded-full animate-pulse" />
           <div
-            className="absolute bottom-1/3 right-1/4 w-24 h-24 border border-yellow-600/20 rounded-full animate-pulse"
+            className="absolute bottom-1/3 right-1/4 w-24 h-24 border border-yellow-500/10 rounded-full animate-pulse"
             style={{ animationDelay: "1s" }}
           />
         </motion.div>
 
-        {/* Right side - Mission text */}
+        {/* Right side - Text (Gold/White Theme) */}
         <motion.div
           initial={{ opacity: 0, x: 50 }}
           whileInView={{ opacity: 1, x: 0 }}
@@ -52,16 +51,16 @@ export default function Manifesto() {
               transition={{ duration: 0.6, delay: 0.2 }}
               viewport={{ once: true }}
             >
-              <div className="inline-block mb-4 px-4 py-2 bg-yellow-600/10 rounded-full border border-yellow-600/30">
-                <span className="font-sans text-sm text-ink font-semibold">
-                  Our Manifesto
+              <div className="inline-block mb-4 px-4 py-2 bg-yellow-500/10 rounded-full border border-yellow-500/20">
+                <span className="font-sans text-sm text-yellow-500 font-semibold tracking-wider">
+                  THE MANIFESTO
                 </span>
               </div>
             </motion.div>
 
             {/* The Headline */}
             <motion.h2
-              className="font-serif text-4xl md:text-5xl text-ink mb-6 leading-tight"
+              className="font-serif text-4xl md:text-5xl text-white mb-6 leading-tight"
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, delay: 0.3 }}
@@ -69,8 +68,7 @@ export default function Manifesto() {
             >
               A Circle of
               <br />
-              {/* Used your Tengri Blue here */}
-              <span className="text-tengri-blue">Rational Dreamers</span>
+              <span className="text-yellow-500">Rational Dreamers</span>
             </motion.h2>
 
             {/* The Body Text */}
@@ -79,7 +77,7 @@ export default function Manifesto() {
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, delay: 0.4 }}
               viewport={{ once: true }}
-              className="font-sans space-y-4 text-gray-600 text-lg leading-relaxed mb-8"
+              className="font-sans space-y-4 text-gray-300 text-lg leading-relaxed mb-8"
             >
               <p>
                 We are a community of creators and rational dreamers. We believe
@@ -103,7 +101,7 @@ export default function Manifesto() {
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, delay: 0.5 }}
               viewport={{ once: true }}
-              className="inline-flex items-center gap-2 px-8 py-4 bg-ink text-paper rounded-full hover:bg-tengri-blue transition-all duration-300 group font-sans font-medium"
+              className="inline-flex items-center gap-2 px-8 py-4 bg-white text-black rounded-full hover:bg-yellow-500 hover:text-white transition-all duration-300 group font-sans font-medium"
             >
               Read the Full Manifesto
               <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
