@@ -1,17 +1,15 @@
 ---
-title: "The Quiet Revolution of Mindful Living"
+title: "4 noble truths that changed how i lead my life"
 date: "Nov 5, 2025"
-description: "Amidst the chaos of modern existence, a silent movement is growing—one that values presence over productivity."
+description: "These Truths are not profound or unknown but let us accept what we already know and deal with it to find peace"
 coverImage: "/images/buddha.png"
 tag: "Philosophy"
 readTime: "5 min read"
 ---
 
-# Hello World
+## 4 Noble truths
 
-This is my **first blog post** using Markdown.
-
-- Point 1
-- Point 2
-- _Italic text_ works
-- **Bold text** works
+- Truth of suffering
+- Truth of the cause of suffering
+- Truth of the end of suffering
+- Truth of the path to the end of suffering
