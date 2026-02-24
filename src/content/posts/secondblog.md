@@ -1,5 +1,5 @@
 ---
-title: "The Quiet Revolution of Mindful Living"
+title: "AI: Boom or Bust Either way we are doomed"
 date: "Feb 24, 2026"
 description: "Amidst the chaos of modern existence, a silent movement is growing—one that values presence over productivity."
 coverImage: "/public/images/French_revolution_tuvilleris.jpg
