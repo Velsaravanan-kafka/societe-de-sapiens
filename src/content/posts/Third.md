@@ -1,7 +1,7 @@
 ---
-title: "The Brutal Economics of Infinite Choice: Why You Must Choose Your Sacrifice"
+title: "Why you must choose your Sacrifice before it chooses you"
 date: "March 13, 2026"
-description: "We are drowning in a generation that demands the reward but refuses to pay the Invisible Tax. Here is the operational blueprint for weaponizing your sacrifices."
+description: "Understanding oppurtunity cost is the single most important variable in how you make decisions that actually succeed"
 coverImage: "/images/Wanderer.jpg"
 tags: "Philosophy, Self Improvement, Economics, Entrepreneurship"
 readTime: "5 min read"
@@ -33,6 +33,9 @@ We suffer from the illusion that indecision is free. It is not. Indecision is an
 **The Psychology of Mediocrity: Why We Fear the Cut**
 Why are intelligent humans so terrible at calculating this cost? The answer lies in our evolutionary wiring.
 In their Nobel Prize-winning work on Prospect Theory, psychologists Daniel Kahneman and Amos Tversky identified a cognitive flaw called Loss Aversion. They proved mathematically that the psychological pain of losing something is roughly twice as powerful as the pleasure of gaining something of equal value.
+
+(/images/Loss*aversion.jpg)
+\_Kahneman's loss aversion graph*
 
 Coupled with Status Quo Bias—our deep-seated preference for things to remain exactly as they are—we are biologically programmed to be cowards.
 
