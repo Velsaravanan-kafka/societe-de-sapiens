@@ -17,7 +17,7 @@ We are witnessing a generation hypnotized by the aesthetic of success, entirely 
 **The Differentiator: Winners vs. Dreamers**
 The entrepreneur Alex Hormozi famously stated, "Sacrifice and suffering is inevitable, so choose the right thing to suffer."
 
-(/images/Wanderer.jpg)
+[!Wanderer](/images/Wanderer.jpg)
 _Caspar David Friedrich: Wanderer above the Sea of Fog_
 
 This is the dividing line between those who build empires and those who merely dream of them. Society overemphasizes the downside risk of failure—the paralyzing fear of ending up on the street if you make the wrong choice. In reality, the floor for failure in the modern world is relatively high; even if a massive risk fails, you will likely still survive.
@@ -34,8 +34,8 @@ We suffer from the illusion that indecision is free. It is not. Indecision is an
 Why are intelligent humans so terrible at calculating this cost? The answer lies in our evolutionary wiring.
 In their Nobel Prize-winning work on Prospect Theory, psychologists Daniel Kahneman and Amos Tversky identified a cognitive flaw called Loss Aversion. They proved mathematically that the psychological pain of losing something is roughly twice as powerful as the pleasure of gaining something of equal value.
 
-(/images/Loss*aversion.jpg)
-\_Kahneman's loss aversion graph*
+[!Loss aversion](/images/Loss*aversion.jpg)
+_Kahneman's loss aversion graph_
 
 Coupled with Status Quo Bias—our deep-seated preference for things to remain exactly as they are—we are biologically programmed to be cowards.
 

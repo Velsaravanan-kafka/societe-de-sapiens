@@ -68,7 +68,7 @@ We are not just facing structural unemployment; we are facing a fundamental shif
 
 History is deeply unforgiving to societies that strip the working class of their utility and dignity. We do not need to look to Karl Marx to understand the endgame of total wealth stratification; we only need to look at the French Revolution.
 
-![The Storming of the Tuileries Palace, August 10, 1792](/public/images/French_revolution_tuvilleris.jpg)
+![The Storming of the Tuileries Palace, August 10, 1792](/images/French_revolution_tuvilleris.jpg)
 _The Storming of the Tuileries Palace, August 10, 1792. Public Domain via Wikimedia Commons._
 
 When a population realizes they have been permanently priced out of providing economic value and have nothing left to lose, civil decorum shatters. The ultimate threat of a successful AI boom is not a Terminator scenario; it is a rapid descent into techno-feudalism, followed inevitably by violent social upheaval.
