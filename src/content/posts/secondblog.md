@@ -32,7 +32,7 @@ The modern market economy glorifies aggressive expansion over stability. Symboli
 
 As you can infer, the current system was designed to be fragile, favoring vast financial expansion over solid footing. To understand the danger of the current AI bubble, we must compare it to two historical economic events.
 
-![Crowd outside the New York Stock Exchange following the Crash of 1929](/public/images/1929-CRASH.jpg)
+![Crowd outside the New York Stock Exchange following the Crash of 1929](/images/1929-CRASH.jpg)
 _Crowd outside the New York Stock Exchange following the Crash of 1929. Public Domain via Library of Congress._
 
 ### 1. The 1929 Wall Street Crash

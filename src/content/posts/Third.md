@@ -1,9 +1,11 @@
+---
 title: "The Brutal Economics of Infinite Choice: Why You Must Choose Your Sacrifice"
 date: "March 13, 2026"
 description: "We are drowning in a generation that demands the reward but refuses to pay the Invisible Tax. Here is the operational blueprint for weaponizing your sacrifices."
-coverImage: "/images/French_revolution_tuvilleris.jpg"
+coverImage: "/images/Wanderer.jpg"
 tags: "Philosophy, Self Improvement, Economics, Entrepreneurship"
 readTime: "5 min read"
+---
 
 # Why you must Choose your sacrifice before it chooses you.
 
@@ -14,6 +16,9 @@ We are witnessing a generation hypnotized by the aesthetic of success, entirely 
 
 **The Differentiator: Winners vs. Dreamers**
 The entrepreneur Alex Hormozi famously stated, "Sacrifice and suffering is inevitable, so choose the right thing to suffer."
+
+(/images/Wanderer.jpg)
+_Caspar David Friedrich: Wanderer above the Sea of Fog_
 
 This is the dividing line between those who build empires and those who merely dream of them. Society overemphasizes the downside risk of failure—the paralyzing fear of ending up on the street if you make the wrong choice. In reality, the floor for failure in the modern world is relatively high; even if a massive risk fails, you will likely still survive.
 
